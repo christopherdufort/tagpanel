@@ -1,0 +1,11 @@
+body{
+    background-color: #F9F9F9;
+}
+.outer-panel{
+    padding:10px;
+    margin-bottom: 0px;
+}
+.inner-panel{
+    background-color: #FFFFFF;
+    padding:10px;
+}
