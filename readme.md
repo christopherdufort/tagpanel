@@ -11,4 +11,4 @@ Admin roles have access to an admin dashboard.
 The app was originally hosted on a Digital Ocean Droplet using LAMP stack infra.
 
 
-This source code was only recently made public and is not maintained.
+This is an old version containing only some of the source code, this repo was made public and is not maintained.
